@@ -1,0 +1,12 @@
+# NAME: yt-images
+# AUTHOR: CatFish
+# REPO: https://github.com/jeffscrum/hat4head/tree/master/Clash/rules
+# UPDATED: 2023-08-31 12:30:00
+
+payload:
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,l.google.com
+  - DOMAIN,ytimg.com
+  - DOMAIN,img.youtube.com
+  - DOMAIN,i.ytimg.com
+  - DOMAIN,youtubei.googleapis.com
