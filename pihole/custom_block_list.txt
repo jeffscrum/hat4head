@@ -1,0 +1,42 @@
+############################################
+#               Blacklist                  #
+############################################
+
+# Import this lists:
+#   - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+#   - https://4pda.to/forum/index.php?showtopic=275091&st=8000#entry89665467
+#   - https://4pda.to/forum/index.php?showtopic=1021363
+
+
+################ Domains ###################
+0.0.0.0 u7527.32.spylog.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 ad.mail.ru
+0.0.0.0 ad.adriver.ru
+0.0.0.0 report.appmetrica.webvisor.com
+0.0.0.0 incoming.telemetry.mozilla.org
+
+
+### Regular Expressions (https://github.com/mmotti/pihole-regex) ###
+# fdown.net
+# ^analytics?[_.-]
+# ^stat(s|istics)?[0-9]*[_.-]
+# ^count(ers?)?[0-9]*[_.-]
+# ^pixels?[-.]
+# ^beacons?[0-9]*[_.-]
+# ^banners?[_.-]
+# ^advert(s|is(ing|ements?))?[0-9]*[_.-]
+# my-imcloud.com
+# qcloud.com
+
+############################################
+#               WhiteList                  #
+############################################
+# Allowed for yandex-station only:
+# - report.appmetrica.yandex.net
+# - startup.mobile.yandex.net
+# - clck.yandex.net
+
+# Allowed for all:
+# - liveplay.trovo.live
+
