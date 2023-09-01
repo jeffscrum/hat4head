@@ -6,6 +6,7 @@
 payload:
   - DOMAIN,ifconfig.me
   - DOMAIN,ifconfig.co
+  - DOMAIN-SUFFIX,blogspot.com
   - DOMAIN-SUFFIX,bt.t-ru.org
   - DOMAIN-SUFFIX,bt2.t-ru.org
   - DOMAIN-SUFFIX,bt3.t-ru.org
