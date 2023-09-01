@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN,download.windowsupdate.com
