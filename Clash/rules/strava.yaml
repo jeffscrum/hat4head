@@ -1,0 +1,8 @@
+# NAME: Strava
+# AUTHOR: CatFish
+# REPO: https://github.com/jeffscrum/hat4head/tree/master/Clash/rules
+# UPDATED: 2023-08-31 12:30:00
+
+payload:
+  - DOMAIN-SUFFIX,m.strava.com
+  - DOMAIN-SUFFIX,strava.com
