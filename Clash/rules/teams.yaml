@@ -1,7 +1,7 @@
 # NAME: teams
 # AUTHOR: CatFish
 # REPO: https://github.com/jeffscrum/hat4head/tree/master/Clash/rules
-# UPDATED: 2023-08-31 12:30:00
+# UPDATED: 2023-09-07 12:30:00
 
 payload:
   - DOMAIN,teams.events.data.microsoft.com
