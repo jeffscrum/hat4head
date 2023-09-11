@@ -6,6 +6,7 @@
 payload:
   - DOMAIN,ifconfig.me
   - DOMAIN,ifconfig.co
+  - DOMAIN-SUFFIX,alltrails.com
   - DOMAIN-SUFFIX,blogspot.com
   - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,flibusta.is
