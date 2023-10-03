@@ -15,6 +15,9 @@
 0.0.0.0 ad.adriver.ru
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 1xbet.kz
+0.0.0.0 1xbet.com
+0.0.0.0 melbet.ru
 
 
 ### Regular Expressions (https://github.com/mmotti/pihole-regex) ###
