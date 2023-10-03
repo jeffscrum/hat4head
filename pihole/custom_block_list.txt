@@ -18,6 +18,7 @@
 0.0.0.0 1xbet.kz
 0.0.0.0 1xbet.com
 0.0.0.0 melbet.ru
+0.0.0.0 betsonsport.ru
 
 
 ### Regular Expressions (https://github.com/mmotti/pihole-regex) ###
