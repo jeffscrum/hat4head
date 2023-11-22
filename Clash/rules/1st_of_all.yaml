@@ -18,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,namecheap.com
   - DOMAIN-SUFFIX,onlinesim.ru
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,path3.xtracloud.net
