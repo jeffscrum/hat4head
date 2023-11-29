@@ -23,6 +23,9 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,path3.xtracloud.net
+  - DOMAIN-SUFFIX,rutor.info
+  - DOMAIN-SUFFIX,rutor.is
+  - DOMAIN-SUFFIX,rutor.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,vyos.io
