@@ -4,8 +4,8 @@
 #
 
 payload:
-  - DOMAIN,ifconfig.me
-  - DOMAIN,ifconfig.co
+  - DOMAIN-SUFFIX,ifconfig.me
+  - DOMAIN-SUFFIX,ifconfig.co
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,alltrails.com
   - DOMAIN-SUFFIX,blogspot.com
@@ -25,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,path3.xtracloud.net
   - DOMAIN-SUFFIX,rutor.info
   - DOMAIN-SUFFIX,rutor.is
-  - DOMAIN-SUFFIX,rutor.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,vyos.io
