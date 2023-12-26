@@ -8,9 +8,7 @@ payload:
   - DOMAIN-SUFFIX,bt2.t-ru.org
   - DOMAIN-SUFFIX,bt3.t-ru.org
   - DOMAIN-SUFFIX,bt4.t-ru.org
-  - DOMAIN-SUFFIX,rutor.org
-  - DOMAIN-SUFFIX,rutracker.cc
-  - DOMAIN-SUFFIX,rutracker.cr
+  - DOMAIN-SUFFIX,rutor.info
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,nnmclub.to
 
