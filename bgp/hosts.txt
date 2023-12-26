@@ -1,14 +1,15 @@
-ytimg.com
-img.youtube.com
-i.ytimg.com
-youtubei.googleapis.com
+## Google
 
 googletagmanager.com
 h4.googleusercontent.com
+i.ytimg.com
+img.youtube.com
 lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
 lh6.googleusercontent.com
 news.google.com
 play.google.com
+youtubei.googleapis.com
 yt3.ggpht.com
+ytimg.com
