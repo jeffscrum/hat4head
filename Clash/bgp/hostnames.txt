@@ -1,1 +1,4 @@
 ytimg.com
+img.youtube.com
+i.ytimg.com
+youtubei.googleapis.com
