@@ -2,3 +2,13 @@ ytimg.com
 img.youtube.com
 i.ytimg.com
 youtubei.googleapis.com
+
+googletagmanager.com
+h4.googleusercontent.com
+lh3.googleusercontent.com
+lh4.googleusercontent.com
+lh5.googleusercontent.com
+lh6.googleusercontent.com
+news.google.com
+play.google.com
+yt3.ggpht.com
