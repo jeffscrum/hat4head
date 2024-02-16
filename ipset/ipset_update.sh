@@ -1,7 +1,10 @@
 #!/bin/bash
 
+# Create new iphash table, if not exist
+ipset create -exist blacklist iphash
+
 # Create new iphash table
-ipset -N blacklist_tmp iphash
+ipset create blacklist_tmp iphash
 
 # Download address list
 wget -O /tmp/blacklist_sw.lst https://raw.githubusercontent.com/jeffscrum/hat4head/master/ipset/blacklist.lst
