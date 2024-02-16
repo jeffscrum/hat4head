@@ -1,16 +1,16 @@
 #!/bin/bash
 
-# Create new iphash table, if not exist
-ipset create -exist blacklist iphash
+# Create new nethash set, if not exist
+ipset create -exist blacklist nethash
 
-# Create new iphash table
-ipset create blacklist_tmp iphash
+# Create new nethash set
+ipset create blacklist_tmp nethash
 
-# Download address list
+# Download net list
 wget -O /tmp/blacklist_sw.lst https://raw.githubusercontent.com/jeffscrum/hat4head/master/ipset/blacklist.lst
 
 echo -n "Fill ipset..."
-# Read file and add to ipset table
+# Read file and add to ipset
 list=$(cat /tmp/blacklist_sw.lst)
 for addr in $list
   do
