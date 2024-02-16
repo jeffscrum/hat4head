@@ -18,7 +18,7 @@ for addr in $list
   done
 echo "Done"
 
-# Swap old tables with tmp
+# Swap 'blacklist' table and 'blacklist_tmp'
 ipset swap blacklist blacklist_tmp
 
 # Destroy tmp table
