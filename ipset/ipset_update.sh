@@ -7,11 +7,11 @@ ipset create -exist blacklist nethash
 ipset create blacklist_tmp nethash
 
 # Download net list
-wget -O /tmp/blacklist_sw.lst https://raw.githubusercontent.com/jeffscrum/hat4head/master/ipset/blacklist.lst
+wget -O /tmp/blacklist_tmp.lst https://raw.githubusercontent.com/jeffscrum/hat4head/master/ipset/blacklist.lst
 
 echo -n "Fill ipset..."
 # Read file and add to ipset
-list=$(cat /tmp/blacklist_sw.lst)
+list=$(cat /tmp/blacklist_tmp.lst)
 for addr in $list
   do
     ipset -A blacklist_tmp $addr
@@ -25,4 +25,4 @@ ipset swap blacklist blacklist_tmp
 ipset destroy blacklist_tmp
 
 # Cleanup
-rm -f /tmp/blacklist_sw.lst
+rm -f /tmp/blacklist_tmp.lst
