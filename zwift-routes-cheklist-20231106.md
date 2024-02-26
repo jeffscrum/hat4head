@@ -93,7 +93,7 @@
 |   X   | Greatest London Loop      | London     | 25.6 km (15.9 miles)  | 345 m (1,132')  | 0.5 km (0.3 miles)  | 510 XP  |   2   |
 |       | Triple Flat Loops         | Watopia    | 33.9 (21.1 miles)     | 134 m (440')    | 2.4 km (1.5 miles)  | 680 XP  |   2   |
 |   X   | Country To Coastal        | Makuri Isl | 33.4km (20.8 miles)   | 274m (899)      | 0.13 km (0.1 miles) | 665 XP  |   2   |
-|       | Chasing the Sun           | Makuri Isl | 35.1 km (21.8 miles)  | 279 m (915')    | 0 km (0 miles)      | 690 XP  |   2   |
+|   X   | Chasing the Sun           | Makuri Isl | 35.1 km (21.8 miles)  | 279 m (915')    | 0 km (0 miles)      | 690 XP  |   2   |
 |       | Temples and Towers        | Makuri Isl | 32.6 (20.3 miles)     | 318 m (1,043')  | 0.8 km (0.5 miles)  | 650 XP  |   2   |
 |       | Sugar Cookie              | Watopia    | 33.6 km (20.9 miles)  | 250 m (820')    | 5.4 km (3.4 miles)  | 660 XP  |   2   |
 |   X   | Out and Back Again        | Watopia    | 39.8 km (24.7 miles)  | 303 m (994')    | 2.4 km (1.5 miles)  | 840 XP  |   2   |
