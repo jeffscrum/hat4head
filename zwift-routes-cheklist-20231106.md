@@ -3,8 +3,8 @@
 |   X   | Volcano Circuit CCW       | Watopia    | 4.1 km (2.5 miles)    | 17 m (56')      | 4.9 km (3.0 miles)  | 80 XP   |   1   |
 |   X   | Volcano Circuit           | Watopia    | 4.1 km (2.5 miles)    | 17 m (56')      | 2.8 km (1.7 miles)  | 80 XP   |   1   |
 |       | Duchy Estate              | Yorkshire  | 3 km (1.9 miles)      | 37 m (121')     | 1.7 km (1.1 miles)  | 60 XP   |   1   |
-|       | Glasgow Crit Circuit      | Scotland   | 3km (1.9 miles)       | 33m (108')      | 0.2 km (0.1 miles)  | 60 XP   |   1   |
-|       | Mech Isle Loop            | Makuri Isl | 4km (2.5 miles)       | 38.7m (127')    | 0 km (0 miles)      | 80 XP   |   1   |
+|       | Glasgow Crit Circuit      | Scotland   | 3 km (1.9 miles)      | 33m (108')      | 0.2 km (0.1 miles)  | 60 XP   |   1   |
+|       | Mech Isle Loop            | Makuri Isl | 4 km (2.5 miles)      | 38.7m (127')    | 0 km (0 miles)      | 80 XP   |   1   |
 |   X   | The Fan Flats             | Richmond   | 5 km (3.1 miles)      | 13 m (43')      | 4.3 km (2.7 miles)  | 100 XP  |   1   |
 |       | Classique                 | London     | 5.4 km (3.4 miles)    | 19 m (62')      | 5.7 km (3.5 miles)  | 110 XP  |   1   |
 |       | Sea to Tree               | Makuri Isl | 3.2 km (2.0 miles)    | 107 m (351')    | 0 km (0 miles)      | 65 XP   |   1   |
@@ -15,7 +15,7 @@
 |       | Rooftop Rendezvous        | Makuri Isl | 3.7 km (2.3 miles)    | 56 m (184)      | 2.9 km (1.8 miles)  | 74 XP   |   1   |
 |       | Twighlight Harbor         | Makuri Isl | 6.9 km (4.3 miles)    | 33m (108')      | .2 km (.1 miles)    | 135 XP  |   1   |
 |       | The 6 Train               | New York   | 6.4 km (4.0 miles)    | 61 m (200)      | 0.2 km (0.1 miles)  | 130 XP  |   1   |
-|       | Bridges and Boardwalks    | Makuri Isl | 6.3km (3.9 miles)     | 59.5m (195')    | 1.9 km (1.2 miles)  | 125 XP  |   1   |
+|       | Bridges and Boardwalks    | Makuri Isl | 6.3 km (3.9 miles)    | 59.5m (195')    | 1.9 km (1.2 miles)  | 125 XP  |   1   |
 |       | Electric Loop             | Makuri Isl | 8.9 km (5.5 miles)    | 29 m (95')      | 0 km (0 miles)      | 170 XP  |   1   |
 |       | Farmland Loop             | Makuri Isl | 7.8 km (4.8 miles)    | 57 m (187')     | 0 km (0 miles)      | 155 XP  |   1   |
 |   X   | Two Bridges Loop          | Watopia    | 7.1 km (4.4 miles)    | 73 m (240')     | 0 km (0 miles)      | 140 XP  |   1   |
@@ -35,7 +35,7 @@
 |       | City and the Sgurr        | Scotland   | 5.9km (3.7 miles)     | 103m (338)      | 2.7 km (1.7 miles)  | 120 XP  |   1   |
 |       | Spirit Forest             | Makuri Isl | 8.4 km (5.2 miles)    | 134 m (440')    | 4 km (2.5 miles)    | 165 XP  |   1   |
 |       | Three Village Loop        | Makuri Isl | 10.5 km (6.5 miles)   | 92 m (302')     | 0 km (0 miles)      | 210 XP  |   1   |
-|       | Island Outskirts          | Makuri Isl | 11.3km (7.0 miles)    | 90m (295')      | 0.15 km             | 225 XP  |   1   |
+|       | Island Outskirts          | Makuri Isl | 11.3 km (7.0 miles)   | 90m (295')      | 0.15 km             | 225 XP  |   1   |
 |       | Grand Central Circuit     | New York   | 6.8 km (4.2 miles)    | 137 m (449')    | 1.6 km (1.0 miles)  | 140 XP  |   1   |
 |   X   | Tempus Fugit              | Watopia    | 17.3 km (10.7 miles)  | 16 m (52')      | 2.4 km (1.5 miles)  | 380 XP  |   1   |
 |       | Cobbled Climbs            | Richmond   | 9.2 km (5.7 miles)    | 126 m (413')    | 0.3 km (0.2 miles)  | 180 XP  |   1   |
@@ -47,7 +47,7 @@
 |       | Neon Flats                | Makuri Isl | 14.7 km (9.1 miles)   | 72 m (236')     | .3 km (0.2 miles)   | 290 XP  |   1   |
 |   X   | Tick Tock                 | Watopia    | 16.8 km (10.4 miles)  | 44 m (144')     | 2.4 km (1.5 miles)  | 388 XP  |   1   |
 |       | Going Coastal             | Watopia    | 15,9 km (9.9 miles)   | 46 m (151)      | 0 km (0 miles)      | 308 XP  |   1   |
-|       | Rolling Highlands         | Scotland   | 9km (5.6 miles)       | 77m (253')      | 5.1 km (3.2 miles)  | 180 XP  |   1   |
+|       | Rolling Highlands         | Scotland   | 9k m (5.6 miles)      | 77m (253')      | 5.1 km (3.2 miles)  | 180 XP  |   1   |
 |   X   | Astoria Line 8            | New York   | 11.5 km (7.1 miles)   | 141 m (463')    | 0.4 km (0.2 miles)  | 230 XP  |   1   |
 |   X   | Whole Lotta Lava          | Watopia    | 12.3 km (7.6 miles)   | 160 m (525')    | 4.9 km (3.0 miles)  | 240 XP  |   1   |
 |       | The Highline              | New York   | 10.5 km (6.5 miles)   | 175 m (574')    | 10.0 km (6.2 miles) | 210 XP  |   1   |
@@ -57,9 +57,9 @@
 |   X   | Chain Chomper             | Makuri Isl | 13.6 km (8.5 miles)   | 184 m (604)     | 0 km (0 miles)      | 270 XP  |   1   |
 |       | Lady Liberty              | New York   | 12.3 km (7.6 miles)   | 197 m (646')    | 0.4 km (0.2 miles)  | 240 XP  |   1   |
 |       | Countryside Tour          | Makuri Isl | 15.8 km (9.8 miles)   | 185 m (607')    | 0 km (0 miles)      | 310 XP  |   1   |
-|       | Island Hopper             | Makuri Isl | 17.9km (11.1 miles)   | 128.5m (422')   | 0.15 km (0.1 miles) | 360 XP  |   1   |
+|       | Island Hopper             | Makuri Isl | 17.9 km (11.1 miles)  | 128.5m (422')   | 0.15 km (0.1 miles) | 360 XP  |   1   |
 |       | Suki's Playground         | Makuri Isl | 18.5 km (11.5 miles)  | 150 m (492')    | 0 km (0 miles)      | 365 XP  |   1   |
-|   X   | Ocean Lava Cliffside Loop | Watopia    | 19km (11.8 miles)     | 146 m (479')    | 0 km (0 miles)      | 380 XP  |   1   |
+|   X   | Ocean Lava Cliffside Loop | Watopia    | 19 km (11.8 miles)    | 146 m (479')    | 0 km (0 miles)      | 380 XP  |   1   |
 |   X   | Sand and Sequoias         | Watopia    | 20.2 km (12.6 miles)  | 146 m (479')    | 2.4 km (1.5 miles)  | 400 XP  |   1   |
 |   X   | 2019 UCI Worlds Harrogate | Yorkshire  | 13.8 km (8.6 miles)   | 240 m (787)     | 0.1 km (0.1 miles)  | 270 XP  |   1   |
 |       | R.G.V.                    | France     | 24.1 km (15.0 miles)  | 107 m (351)     | 1 km (0.6 miles)    | 480 XP  |   1   |
@@ -75,7 +75,7 @@
 |   X   | Volcano Climb             | Watopia    | 22.8 km (14.2 miles)  | 192 m (630)     | 0.5 km (0.3 miles)  | 460 XP  |   2   |
 |   X   | Serpentine 8              | Watopia    | 19.2 km (11.9 miles)  | 199 m (653)     | 7.3 km (4.5 miles)  | 385 XP  |   2   |
 |       | London 8                  | London     | 20.3 km (12.6 miles)  | 255 m (837')    | 0.5 km (0.3 miles)  | 410 XP  |   2   |
-|   X   | Turf N Surf               | Makuri Isl | 24.6km (15.3 miles)   | 195.8m (642')   | 0.07 km (0.04 miles)| 490 XP  |   2   |
+|   X   | Turf N Surf               | Makuri Isl | 24.6 km (15.3 miles)  | 195.8m (642')   | 0.07 km (0.04 miles)| 490 XP  |   2   |
 |       | Greater London Loop       | London     | 21 km (13.0 miles)    | 244 (801)       | 0.5 km (0.3 miles)  | 420 XP  |   2   |
 |   X   | Greater London 8          | London     | 23.8 km (14.8 miles)  | 256 m (840')    | 5.7 km (3.5 miles)  | 480 XP  |   2   |
 |   X   | Downtown Titans           | Watopia    | 24.6 km (15.3 miles)  | 254 m (833')    | 0.8 km (0.5 miles)  | 490 XP  |   2   |
@@ -84,21 +84,21 @@
 |       | Mighty Metropolitan       | New York   | 20 km (12.4 miles)    | 307 m (1,007)   | 0.4 km (0.2 miles)  | 400 XP  |   2   |
 |   X   | Figure 8                  | Watopia    | 29.8 km (18.5 miles)  | 234 m (768')    | 0.2 km (0.1 miles)  | 580 XP  |   2   |
 |   X   | Figure 8 Reverse          | Watopia    | 29.7 km (18.5 miles)  | 254 m (833)     | 0.3 km (0.2 miles)  | 580 XP  |   2   |
-|       | The Muckle Yin            | Scotland   | 25.14km (15.6 miles)  | 279m (915')     | 0.2 km (0.1 miles)  | 470 XP  |   2   |
+|       | The Muckle Yin            | Scotland   | 25.14 km (15.6 miles) | 279m (915')     | 0.2 km (0.1 miles)  | 470 XP  |   2   |
 |   X   | Road to Ruins             | Watopia    | 29.6 (18.4 miles)     | 268 (879')      | 0.5 km (0.3 miles)  | 580 XP  |   2   |
 |   X   | Legends and Lava          | Watopia    | 24.5 km (15.2 miles)  | 321 m (1,053)   | 0 km (0 miles)      | 490 XP  |   2   |
 |   X   | Knickerbocker Reverse     | New York   | 22.5 (14.0 miles)     | 364 m (1,194)   | 0.2 km (0.1 miles)  | 450 XP  |   2   |
 |   X   | Knickerbocker             | New York   | 22,5 km (14.0 miles)  | 346 m (1,135')  | 0.4 km (0.2 miles)  | 450 XP  |   2   |
 |       | Rising Empire             | New York   | 20.7 km (12.9 miles)  | 362 m (1,188)   | 0.4 km (0.2 miles)  | 410 XP  |   2   |
 |   X   | Greatest London Loop      | London     | 25.6 km (15.9 miles)  | 345 m (1,132')  | 0.5 km (0.3 miles)  | 510 XP  |   2   |
-|   X   | Triple Flat Loops         | Watopia    | 33.9 (21.1 miles)     | 134 m (440')    | 2.4 km (1.5 miles)  | 680 XP  |   2   |
-|   X   | Country To Coastal        | Makuri Isl | 33.4km (20.8 miles)   | 274m (899)      | 0.13 km (0.1 miles) | 665 XP  |   2   |
+|   X   | Triple Flat Loops         | Watopia    | 33.9 km (21.1 miles)  | 134 m (440')    | 2.4 km (1.5 miles)  | 680 XP  |   2   |
+|   X   | Country To Coastal        | Makuri Isl | 33.4 km (20.8 miles)  | 274m (899)      | 0.13 km (0.1 miles) | 665 XP  |   2   |
 |   X   | Chasing the Sun           | Makuri Isl | 35.1 km (21.8 miles)  | 279 m (915')    | 0 km (0 miles)      | 690 XP  |   2   |
-|   X   | Temples and Towers        | Makuri Isl | 32.6 (20.3 miles)     | 318 m (1,043')  | 0.8 km (0.5 miles)  | 650 XP  |   2   |
+|   X   | Temples and Towers        | Makuri Isl | 32.6 km (20.3 miles)  | 318 m (1,043')  | 0.8 km (0.5 miles)  | 650 XP  |   2   |
 |       | Sugar Cookie              | Watopia    | 33.6 km (20.9 miles)  | 250 m (820')    | 5.4 km (3.4 miles)  | 660 XP  |   2   |
 |   X   | Out and Back Again        | Watopia    | 39.8 km (24.7 miles)  | 303 m (994')    | 2.4 km (1.5 miles)  | 840 XP  |   2   |
 |       | Coast Crusher             | Watopia    | 34,6 km (21.5 miles)  | 140 m (459)     | 8.2 km (5.1 miles)  | 684 XP  |   2   |
-|       | Makuri 40                 | Makuri Isl | 40.1 1km (24.9 miles) | 306.6m (1,006') | 0.13 km (0.1 miles) | 800 XP  |   2   |
+|       | Makuri 40                 | Makuri Isl | 40.1 km (24.9 miles)  | 306.6m (1,006') | 0.13 km (0.1 miles) | 800 XP  |   2   |
 |       | 2018 UCI Worlds Course    | Innsbruck  | 23.6 km (14.7 miles)  | 487 m (1,598)   | 0.2 km (0.1 miles)  | 470 XP  |   2   |
 |       | Royal Pump Room 8         | Yorkshire  | 27.7 km (17.2 miles)  | 480 m (1,575')  | 0.1 km (0.1 miles)  | 550 XP  |   2   |
 |   X   | Three Little Sisters      | Watopia    | 37.7 km (23.4 miles)  | 401 m (1,316')  | 0.7 km (0.4 miles)  | 755 XP  |   2   |
