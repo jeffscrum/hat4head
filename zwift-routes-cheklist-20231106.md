@@ -13,7 +13,7 @@
 |       | Champs-Elysées            | Paris      | 6.6 km (4.1 miles)    | 34 m (112')     | 3.2 km (2.0 miles)  | 130 XP  |   1   |
 |   X   | Lutece Express            | Paris      | 6.6 km (4.1 miles)    | 33 m (108')     | 3.5 km (2.2 miles)  | 130 XP  |   1   |
 |       | Rooftop Rendezvous        | Makuri Isl | 3.7 km (2.3 miles)    | 56 m (184)      | 2.9 km (1.8 miles)  | 74 XP   |   1   |
-|       | Twighlight Harbor         | Makuri Isl | 6.9 km (4.3 miles)    | 33m (108')      | .2 km (.1 miles)    | 135 XP  |   1   |
+|   ?   | Twighlight Harbor         | Makuri Isl | 6.9 km (4.3 miles)    | 33m (108')      | .2 km (.1 miles)    | 135 XP  |   1   |
 |       | The 6 Train               | New York   | 6.4 km (4.0 miles)    | 61 m (200)      | 0.2 km (0.1 miles)  | 130 XP  |   1   |
 |       | Bridges and Boardwalks    | Makuri Isl | 6.3 km (3.9 miles)    | 59.5m (195')    | 1.9 km (1.2 miles)  | 125 XP  |   1   |
 |       | Electric Loop             | Makuri Isl | 8.9 km (5.5 miles)    | 29 m (95')      | 0 km (0 miles)      | 170 XP  |   1   |
