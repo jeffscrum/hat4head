@@ -24,7 +24,7 @@
 |       | Sleepless City            | Makuri Isl | 9.6 km (6.0 miles)    | 42 m (138')     | 0.1 km (0.1 miles)  | 185 XP  |   1   |
 |       | Loch Loop                 | Scotland   | 8.07km (5.0 miles)    | 71m (233')      | 0 km (0 miles)      | 160 XP  |   1   |
 |   X   | Jungle Circuit            | Watopia    | 7.9 km (4.9 miles)    | 79 m (259)      | 5.7 km (3.5 miles)  | 260 XP  |   1   |
-|   ?   | Innsbruckring             | Innsbruck  | 8.8 km (5.5 miles)    | 72 m (236)      | 0.2 km (0.1 miles)  | 170 XP  |   1   |
+|   X   | Innsbruckring             | Innsbruck  | 8.8 km (5.5 miles)    | 72 m (236)      | 0.2 km (0.1 miles)  | 170 XP  |   1   |
 |   X   | Flat Route                | Watopia    | 10.3 km (6.4 miles)   | 54 m (177)      | 0.5 km (0.3 miles)  | 200 XP  |   1   |
 |   X   | Greater London Flat       | London     | 11.6 km (7.2 miles)   | 45 m (148')     | 5.7 km (3.5 miles)  | 230 XP  |   1   |
 |   X   | Beach Island Loop         | Watopia    | 12.8 km (8.0 miles)   | 44 m (144')     | 0 km (0 miles)      | 255 XP  |   1   |
