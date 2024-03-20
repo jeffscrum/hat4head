@@ -64,7 +64,7 @@
 |   X   | 2019 UCI Worlds Harrogate | Yorkshire  | 13.8 km (8.6 miles)   | 240 m (787)     | 0.1 km (0.1 miles)  | 270 XP  |   1   |
 |       | R.G.V.                    | France     | 24.1 km (15.0 miles)  | 107 m (351)     | 1 km (0.6 miles)    | 480 XP  |   1   |
 |   X   | Douce France              | France     | 24.1 km (15.0 miles)  | 108 m (354)     | 0 km (0 miles)      | 480 XP  |   1   |
-|       | Castle to Castle          | Makuri Isl | 22.4 km (13.9 miles)  | 139 (456')      | 0.8 km (0.5 miles)  | 460 XP  |   1   |
+|   ?   | Castle to Castle          | Makuri Isl | 22.4 km (13.9 miles)  | 139 (456')      | 0.8 km (0.5 miles)  | 460 XP  |   1   |
 |       | London Loop               | London     | 14,9 km (9.3 miles)   | 220 m (722')    | 0.5 km (0.3 miles)  | 300 XP  |   1   |
 |       | Watopia's Waistband       | Watopia    | 25.5 km (15.8 miles)  | 95 m (312')     | 2.4 km (1.5 miles)  | 555 XP  |   2   |
 |       | Roule Ma Poule            | France     | 23 km (14.3 miles)    | 145 m (476')    | 3.1 km (1.9 miles)  | 460 XP  |   2   |
