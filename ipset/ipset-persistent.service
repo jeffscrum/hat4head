@@ -1,0 +1,25 @@
+[Unit]
+Description=ipset persistent configuration
+Before=network.target
+
+# https://selivan.github.io/2018/07/27/ipset-save-with-ufw-and-iptables-persistent-and.html
+# ipset sets should be loaded before UFW
+# Because creating iptables rules with names of non-existent sets is not possible
+Before=ufw.service
+
+ConditionFileNotEmpty=/etc/ipset/ipset.saved
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+# Startup
+ExecStart=/sbin/ipset restore -exist -file /etc/ipset/ipset.saved
+# Stop
+ExecStop=/sbin/ipset save -file /etc/ipset/ipset.saved
+ExecStop=/sbin/ipset flush
+ExecStopPost=/sbin/ipset destroy
+
+[Install]
+WantedBy=multi-user.target
+
+RequiredBy=ufw.service
