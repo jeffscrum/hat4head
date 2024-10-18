@@ -9,4 +9,4 @@ To regularly update ipset lists, run the `update.sh` by cron.
 2. Copy *.service files to `/etc/systemd/system/`
 3. Run `update.sh` for update lists and create necessary files
 4. Run `systemctl daemon-reload`
-5. Run `systemctl enable ipset-persistent.service` and `systemctl enable ipset-docker-rules.service`
+5. Run `systemctl enable --now ipset-persistent.service` and `systemctl enable --now ipset-docker-rules.service`
