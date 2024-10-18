@@ -1,0 +1,16 @@
+[Unit]
+Description=add iptable rules for block ipset
+After=docker.service
+
+ConditionFileNotEmpty=/etc/ipset/enable-iptables-rules.sh
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+# Start
+ExecStart=/etc/ipset/enable-iptables-rules.sh
+# Stop
+ExecStop=/etc/ipset/disable-iptables-rules.sh
+
+[Install]
+WantedBy=multi-user.target
