@@ -5,6 +5,12 @@
 # - ipset
 # - iprange
 
+## Checkup
+[ ! -f /usr/sbin/ipset ] && printf "\nERROR: ipset not found!\n\n" && ABANDON=true
+[ ! -f /usr/bin/iprange ] && printf "\nERROR: iprange not found!\n\n" && ABANDON=true
+[ ! -f /usr/bin/wget ] && printf "\nERROR: wget not found!\n\n" && ABANDON=true
+[ ! -z $ABANDON ] && exit 0
+
 # Create new nethash set, if not exist
 ipset create -exist blocked-ip hash:net family inet hashsize ${HASHSIZE:-16384} maxelem ${MAXELEM:-65536}
 
@@ -32,6 +38,14 @@ ipset flush blocked-ip-tmp
 
 # Cleanup
 #rm -f /etc/ipset/blocked-ip.lst.tmp
+
+# Check and create save file
+[ ! -f /etc/ipset/ipset.saved ] && ipset save -file /etc/ipset/ipset.saved
+
+# if [ ! -x `ls /etc/ipset/ipset.saved` ];
+#   then
+#     ipset save -file /etc/ipset/ipset.saved
+# fi
 
 # Create log entry
 logger "IPset updated"
