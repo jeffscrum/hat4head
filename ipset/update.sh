@@ -20,8 +20,8 @@ ipset create -exist blocked-ip-tmp hash:net family inet hashsize ${HASHSIZE:-163
 # Download net list
 wget -O /etc/ipset/blocked-ip.lst.tmp https://raw.githubusercontent.com/jeffscrum/hat4head/master/ipset/blocked-ip.lst
 
-# Optimize list
-iprange --optimize --print-suffix-ips "/32" /etc/ipset/blocked-ip.lst.tmp > /etc/ipset/blocked-ip.lst
+# Optimize list and exclude whitelist
+iprange --optimize --print-suffix-ips "/32" /etc/ipset/blocked-ip.lst.tmp --exclude-next /etc/ipset/whitelist.lst > /etc/ipset/blocked-ip.lst
 
 # Read file and add to ipset
 list=$(cat /etc/ipset/blocked-ip.lst)
