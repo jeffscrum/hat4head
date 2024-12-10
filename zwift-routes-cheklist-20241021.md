@@ -1,5 +1,5 @@
-| Check | Route                        | Map            | Length                | Elevation      | Lead-In              | Badge |   |
-|-------|------------------------------|----------------|-----------------------|----------------|----------------------|-------|---|
+| Check | Route                     | Map        | Length                | Elevation       | Lead-In             | Badge   | Bidon |
+|:-----:|:--------------------------|:-----------|:----------------------|:----------------|:--------------------|:-------:|:-----:|
 |       | Glasgow Crit   Circuit       | Scotland       | 3km (1.9 miles)       | 34m (112‘)     | 0.2km (0.1   miles)  | 60    | 1 |
 |       | Neokyo Crit Course*          | Makuri Islands | 3.9km (2.4 miles)     | 19m (62‘)      | 0.7km (0.4 miles)    | 90    | 1 |
 |       | Mech Isle Loop               | Makuri Islands | 4km (2.5 miles)       | 39m (128‘)     | 0.1km (0.1   miles)  | 80    | 1 |
