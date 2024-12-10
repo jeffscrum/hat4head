@@ -103,7 +103,7 @@
 |       | Roule Ma Poule               | France         | 23km (14.3   miles)   | 155m         | 3.1km (1.9   miles)  | 460 XP | 2 |
 |       | Libby Hill After Party       | Richmond       | 33km (20.5 miles)     | 102m         | 0.2km (0.1 miles)    | 660 XP | 2 |
 |       | Greatest London   Loop       | London         | 25.6km (15.9   miles) | 356m         | 0.6km (0.4   miles)  | 510 XP | 2 |
-| [ X ] | Legends and Lava             | Watopia        | 24.6km (15.3 miles)   | 352m         | 0km                  | 490 XP | 2 |
+>>>| [ X ] | Legends and Lava             | Watopia        | 24.6km (15.3 miles)   | 352m         | 0km                  | 490 XP | 2 |
 | [ X ] | Figure 8                     | Watopia        | 29.7km (18.5   miles) | 254m         | 0km                  | 580 XP | 2 |
 | [ X ] | Figure 8 Reverse             | Watopia        | 29.7km (18.5 miles)   | 254m         | 0.2km (0.1 miles)    | 580 XP | 2 |
 | [ X ] | Road to Ruins                | Watopia        | 29.6km (18.4   miles) | 276m         | 0km                  | 580 XP | 2 |
