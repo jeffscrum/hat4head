@@ -109,7 +109,7 @@
 |       | Lutscher CCW                                   | Innsbruck       | 13.8km (8.6 miles)   | 402m (1,319ft) | 8.8km (5.5 miles)   |                      |
 |       | Petite Douleur                                 | France          | 13.9km (8.6 miles)   | 194m (636ft)   | 10.9km (6.8 miles)  | Event Only           |
 |       | Kappa Quest Reverse                            | Makuri Islands  | 14km (8.7 miles)     | 140m (459ft)   | 5.1km (3.2 miles)   |                      |
-|       | Loopin Lava                                    | Watopia         | 14.3km (8.9 miles)   | 196m (643ft)   | 4.1km (2.5 miles)   |                      |
+| [ X ] | Loopin Lava                                    | Watopia         | 14.3km (8.9 miles)   | 196m (643ft)   | 4.1km (2.5 miles)   |                      |
 |       | Neon Flats                                     | Makuri Islands  | 14.7km (9.1 miles)   | 73m (240ft)    | 0.2km (0.1 miles)   |                      |
 |       | Flat Irons                                     | New York        | 14.8km (9.2 miles)   |                | 0.8km (0.5 miles)   | Run Only             |
 |       | London Loop Reverse                            | London          | 14.8km (9.2 miles)   | 231m (758ft)   | 0.2km (0.1 miles)   | Event Only           |
