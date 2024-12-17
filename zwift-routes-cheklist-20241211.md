@@ -118,7 +118,7 @@
 |       | Countryside Tour                               | Makuri Islands  | 16km (9.9 miles)     | 185m (607ft)   | 0.2km (0.1 miles)   |                      |
 |       | Richmond UCI Reverse                           | Richmond        | 16.3km (10.1 miles)  | 127m (417ft)   | 0km ( miles)        |                      |
 |       | Richmond UCI Worlds                            | Richmond        | 16.3km (10.1 miles)  | 127m (417ft)   | 0.2km (0.1 miles)   |                      |
-|       | Going Coastal                                  | Watopia         | 16.5km (10.3 miles)  | 63m (207ft)    | 2.3km (1.4 miles)   | Level 10+            |
+| [ X ] | Going Coastal                                  | Watopia         | 16.5km (10.3 miles)  | 63m (207ft)    | 2.3km (1.4 miles)   | Level 10+            |
 | [ X ] | Tick Tock                                      | Watopia         | 16.8km (10.4 miles)  | 53m (174ft)    | 2.3km (1.4 miles)   |                      |
 |       | Queen's Highway After Party                    | Yorkshire       | 17.2km (10.7 miles)  | 259m (850ft)   | 2.6km (1.6 miles)   | Event Only           |
 | [ X ] | Road to Sky                                    | Watopia         | 17.3km (10.7 miles)  | 1045m (3,428ft)| 0.1km (0.1 miles)   | Level 6+             |
