@@ -135,7 +135,7 @@
 |       | London 8 Reverse                               | London          | 20.3km (12.6 miles)  | 219m (719ft)   | 0.2km (0.1 miles)   | Event Only           |
 |       | London 8                                       | London          | 20.3km (12.6 miles)  | 219m (719ft)   | 0.6km (0.4 miles)   |                      |
 |       | Radio Rendezvous                               | Watopia         | 20.4km (12.7 miles)  | 728m (2,388ft) | 3.1km (1.9 miles)   |                      |
-|       | Rising Empire                                  | New York        | 20.7km (12.9 miles)  | 375m (1,230ft) | 0km ( miles)        |                      |
+| [ X ] | Rising Empire                                  | New York        | 20.7km (12.9 miles)  | 375m (1,230ft) | 0km ( miles)        |                      |
 |       | BRAEk-fast Crits and Grits                     | Scotland        | 20.8km (12.9 miles)  | 211m (692ft)   | 1.3km (0.8 miles)   |                      |
 |       | Ven-Top                                        | France          | 20.9km (13.0 miles)  | 1534m (5,033ft)| 0.2km (0.1 miles)   |                      |
 |       | Greater London Loop Reverse                    | London          | 21.0km (13.0 miles)  | 255m (837ft)   | 0km ( miles)        | Event Only           |
