@@ -172,7 +172,7 @@
 | [ X ] | Climber's Gambit                               | Watopia         | 27.7km (17.2 miles)  | 670m (2,198ft) | 0.2km (0.1 miles)   |                      |
 |       | The Magnificent 8                              | Watopia         | 28.9km (18.0 miles)  | 156m (512ft)   | 0.2km (0.1 miles)   | Event Only           |
 |       | Itza Climb Finish                              | Watopia         | 29.1km (18.1 miles)  | 291m (955ft)   | 0.9km (0.6 miles)   |                      |
-|       | Big Flat 8                                     | Watopia         | 29.2km (18.1 miles)  | 103m (338ft)   | 2.3km (1.4 miles)   |                      |
+| [ X ] | Big Flat 8                                     | Watopia         | 29.2km (18.1 miles)  | 103m (338ft)   | 2.3km (1.4 miles)   |                      |
 | [ X ] | Mountain Route                                 | Watopia         | 29.6km (18.4 miles)  | 682m (2,238ft) | 0km ( miles)        |                      |
 |       | Road to Ruins Reverse                          | Watopia         | 29.6km (18.4 miles)  | 276m (906ft)   | 0.2km (0.1 miles)   | Event Only           |
 | [ X ] | Road to Ruins                                  | Watopia         | 29.6km (18.4 miles)  | 276m (906ft)   | 0km ( miles)        | Level 5+             |
