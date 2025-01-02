@@ -218,7 +218,7 @@
 |       | Achterbahn                                     | Innsbruck       | 47.4km (29.5 miles)  | 989m (3,245ft) | 0.2km (0.1 miles)   |                      |
 |       | Three Sisters                                  | Watopia         | 48km (29.8 miles)    | 897m (2,943ft) | 0km ( miles)        |                      |
 |       | Deca Dash                                      | Watopia         | 48.2km (30.0 miles)  | 484m (1,588ft) | 4km (2.5 miles)     |                      |
-|       | The Big Ring                                   | Watopia         | 48.9km (30.4 miles)  | 269m (883ft)   | 2.3km (1.4 miles)   | Level 10+            |
+| [ X ] | The Big Ring                                   | Watopia         | 48.9km (30.4 miles)  | 269m (883ft)   | 2.3km (1.4 miles)   | Level 10+            |
 |       | Shisa Shakedown                                | Makuri Islands  | 49.3km (30.6 miles)  | 495m (1,624ft) | 4km (2.5 miles)     | Event Only           |
 |       | Eastern Eight                                  | Watopia         | 51.7km (32.1 miles)  | 406m (1,332ft) | 2.3km (1.4 miles)   |                      |
 |       | Bambino Fondo                                  | Watopia         | 52.1km (32.4 miles)  | 581m (1,906ft) | 0.5km (0.3 miles)   | Event Only           |
