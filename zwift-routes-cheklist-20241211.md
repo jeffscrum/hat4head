@@ -165,7 +165,7 @@
 |       | Wandering Flats                                | Makuri Islands  | 25.1km (15.6 miles)  | 146m (479ft)   | 0.1km (0.1 miles)   |                      |
 |       | Glyph Heights                                  | Watopia         | 25.3km (15.7 miles)  | 537m (1,762ft) | 8.6km (5.3 miles)   | Level 10+            |
 |       | Tour of Fire and Ice                           | Watopia         | 25.3km (15.7 miles)  | 1167m (3,829ft)| 2.7km (1.7 miles)   | Level 6+             |
-|       | Watopia's Waistband                            | Watopia         | 25.4km (15.8 miles)  | 96m (315ft)    | 2.3km (1.4 miles)   |                      |
+| [ X ] | Watopia's Waistband                            | Watopia         | 25.4km (15.8 miles)  | 96m (315ft)    | 2.3km (1.4 miles)   |                      |
 |       | Greatest London Loop Reverse                   | London          | 25.6km (15.9 miles)  | 318m (1,043ft) | 0.2km (0.1 miles)   | Event Only           |
 |       | Greatest London Loop                           | London          | 25.6km (15.9 miles)  | 356m (1,168ft) | 0.6km (0.4 miles)   |                      |
 |       | Royal Pump Room 8                              | Yorkshire       | 27.5km (17.1 miles)  | 490m (1,608ft) | 0km ( miles)        |                      |
