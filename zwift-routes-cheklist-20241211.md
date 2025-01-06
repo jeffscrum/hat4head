@@ -160,7 +160,7 @@
 | [ X ] | Neokyo All-Nighter                             | Makuri Islands  | 24.3km (15.1 miles)  | 168m (551ft)   | 0.2km (0.1 miles)   |                      |
 | [ X ] | Downtown Titans                                | Watopia         | 24.6km (15.3 miles)  | 292m (958ft)   | 0km ( miles)        |                      |
 |       | Elevation Evaluation                           | Watopia         | 24.6km (15.3 miles)  | 396m (1,299ft) | 3.1km (1.9 miles)   |                      |
-|       | Legends and Lava                               | Watopia         | 24.6km (15.3 miles)  | 352m (1,155ft) | 0km ( miles)        |                      |
+| [ X ] | Legends and Lava                               | Watopia         | 24.6km (15.3 miles)  | 352m (1,155ft) | 0km ( miles)        |                      |
 | [ X ] | Turf N Surf                                    | Makuri Islands  | 24.6km (15.3 miles)  | 196m (643ft)   | 0.1km (0.1 miles)   |                      |
 |       | Wandering Flats                                | Makuri Islands  | 25.1km (15.6 miles)  | 146m (479ft)   | 0.1km (0.1 miles)   |                      |
 |       | Glyph Heights                                  | Watopia         | 25.3km (15.7 miles)  | 537m (1,762ft) | 8.6km (5.3 miles)   | Level 10+            |
