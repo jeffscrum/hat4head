@@ -170,7 +170,7 @@
 |       | Greatest London Loop                           | London          | 25.6km (15.9 miles)  | 356m (1,168ft) | 0.6km (0.4 miles)   |                      |
 |       | Royal Pump Room 8                              | Yorkshire       | 27.5km (17.1 miles)  | 490m (1,608ft) | 0km ( miles)        |                      |
 | [ X ] | Climber's Gambit                               | Watopia         | 27.7km (17.2 miles)  | 670m (2,198ft) | 0.2km (0.1 miles)   |                      |
-|       | The Magnificent 8                              | Watopia         | 28.9km (18.0 miles)  | 156m (512ft)   | 0.2km (0.1 miles)   | Event Only           |
+| [ X ] | The Magnificent 8                              | Watopia         | 28.9km (18.0 miles)  | 156m (512ft)   | 0.2km (0.1 miles)   | Event Only           |
 |       | Itza Climb Finish                              | Watopia         | 29.1km (18.1 miles)  | 291m (955ft)   | 0.9km (0.6 miles)   |                      |
 | [ X ] | Big Flat 8                                     | Watopia         | 29.2km (18.1 miles)  | 103m (338ft)   | 2.3km (1.4 miles)   |                      |
 | [ X ] | Mountain Route                                 | Watopia         | 29.6km (18.4 miles)  | 682m (2,238ft) | 0km ( miles)        |                      |
